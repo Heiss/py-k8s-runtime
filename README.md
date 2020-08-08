@@ -26,3 +26,4 @@ The kubernetes client will be configured to take the image from your hub, where 
 
 - [Docker-py build](https://docker-py.readthedocs.io/en/stable/images.html#docker.models.images.ImageCollection.build)
   - takes fileobj (should be a dockerfile-file)
+- [py-k8s](https://github.com/kubernetes-client/python/blob/master/kubernetes/docs/V1ServicePort.md)
